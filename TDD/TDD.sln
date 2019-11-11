@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDD", "TDD\TDD.csproj", "{79A8AFF8-4D9F-42C2-B5CF-523F384F634B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDDs", "TDD\TDDs.csproj", "{79A8AFF8-4D9F-42C2-B5CF-523F384F634B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testTDD", "testTDD\testTDD.csproj", "{76A08BCE-1832-46BF-9B96-79987D838035}"
 EndProject
