@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDDs", "TDD\TDDs.csproj", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testTDD", "testTDD\testTDD.csproj", "{76A08BCE-1832-46BF-9B96-79987D838035}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{3878E4EE-D179-4336-B75A-37229D2369AF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{76A08BCE-1832-46BF-9B96-79987D838035}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76A08BCE-1832-46BF-9B96-79987D838035}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76A08BCE-1832-46BF-9B96-79987D838035}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3878E4EE-D179-4336-B75A-37229D2369AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3878E4EE-D179-4336-B75A-37229D2369AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3878E4EE-D179-4336-B75A-37229D2369AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3878E4EE-D179-4336-B75A-37229D2369AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
